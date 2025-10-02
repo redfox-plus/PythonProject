@@ -1,0 +1,34 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# PyCharm / IDEA 配置
+.idea/
+*.iml
+
+# 构建产物
+build/
+dist/
+*.spec
+
+# 压缩包 / 二进制产物
+*.dll
+*.exe
+*.zip
+*.pyz
+*.toc
+*.pkg
+
+# 日志 & 临时数据
+*.log
+*.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
